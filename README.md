@@ -20,5 +20,4 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 
 ### Acknowledgements 
 
-##### © Copyright IBM Corporation 1994, 2022.
-##### © Muhammad Faris Kamal 2022
+##### © Alejandro sirit Sep, 2022
