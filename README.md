@@ -1,6 +1,6 @@
 # -Applied-Data-Science-Capstone-SpaceX
 coursera final assigment
-<img src="https://github.com/farishelmi17/SpaceX/blob/main/Screen%20Shot%202022-04-16%20at%2011.01.08%20PM.png">
+<img src="https://github.com/sirit1/-Applied-Data-Science-Capstone-SpaceX/blob/main/presentacion%20project.jpg">
 
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/alerts/)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/ADGVLOGS/IBM-DataScience-SpaceX-Capstone/context:python)
