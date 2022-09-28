@@ -12,10 +12,10 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 3. [**Data Wrangling**](https://github.com/sirit1/-Applied-Data-Science-Capstone-SpaceX/blob/main/3%20-%20labs-jupyter-spacex-Data%20wrangling.ipynb))
 4. [**EDA with SQL**](https://github.com/sirit1/-Applied-Data-Science-Capstone-SpaceX/blob/main/4%20-%20jupyter-labs-eda-dataviz.ipynb))
 5. [**EDA with Visulaization Lab**](https://github.com/sirit1/-Applied-Data-Science-Capstone-SpaceX/blob/main/5%20-%20jupyter-labs-eda-sql-coursera.ipynb)
-6. [**Interactive Visual Analytics with Folium**]((https://github.com/sirit1/-Applied-Data-Science-Capstone-SpaceX/blob/main/6%20-%20lab_jupyter_launch_site_location.ipynb)
+6. [**Interactive Visual Analytics with Folium**](https://github.com/sirit1/-Applied-Data-Science-Capstone-SpaceX/blob/main/6%20-%20lab_jupyter_launch_site_location.ipynb)
 7. [**Dashboard Application (Code)**](https://github.com/sirit1/-Applied-Data-Science-Capstone-SpaceX/blob/main/7%20-%20dashboard%20spacex.ipynb)
 8. [**Predictive Analysis - Machine Learning Lab**](https://github.com/sirit1/-Applied-Data-Science-Capstone-SpaceX/blob/main/8%20-%20machine%20learning%20models%20spacex.ipynb)
-9. [**Final Presentation (Slide)**](https://github.com/farishelmi17/Applied-Data-Science-Capstone-SpaceX/blob/main/SpaceX_compressed.pdf)
+9. [**Final Presentation (Slide)**](https://github.com/sirit1/-Applied-Data-Science-Capstone-SpaceX/blob/main/applied%20data%20science%20capstone%20project%20AS-coursera.pdf)
 
 
 ### Acknowledgements 
